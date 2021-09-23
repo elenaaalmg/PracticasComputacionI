@@ -1,0 +1,3 @@
+C:/Users/elena/OneDrive/Documentos/UNAM/Computacion I/Arreglos/cmake-build-debug/CMakeFiles/Arreglos.dir
+C:/Users/elena/OneDrive/Documentos/UNAM/Computacion I/Arreglos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/elena/OneDrive/Documentos/UNAM/Computacion I/Arreglos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
