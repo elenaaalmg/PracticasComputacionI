@@ -1,3 +1,0 @@
-C:/Users/elena/OneDrive/Documentos/UNAM/Computacion I/GaussJordan/cmake-build-debug/CMakeFiles/GaussJordan.dir
-C:/Users/elena/OneDrive/Documentos/UNAM/Computacion I/GaussJordan/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/elena/OneDrive/Documentos/UNAM/Computacion I/GaussJordan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
