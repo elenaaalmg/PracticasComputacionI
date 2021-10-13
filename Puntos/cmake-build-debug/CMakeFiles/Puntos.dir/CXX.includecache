@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/elena/OneDrive/Documentos/UNAM/Computacion I/Puntos/Punto.cpp
+iostream
+-
+math.h
+-
+Punto.h
+C:/Users/elena/OneDrive/Documentos/UNAM/Computacion I/Puntos/Punto.h
+
+C:/Users/elena/OneDrive/Documentos/UNAM/Computacion I/Puntos/Punto.h
+vector
+-
+
+C:/Users/elena/OneDrive/Documentos/UNAM/Computacion I/Puntos/Puntos.cpp
+iostream
+-
+array
+-
+Punto.h
+C:/Users/elena/OneDrive/Documentos/UNAM/Computacion I/Puntos/Punto.h
+
