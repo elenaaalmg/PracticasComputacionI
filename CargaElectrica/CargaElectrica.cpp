@@ -74,7 +74,7 @@ int CalcularCargaApH(float& ph, grupos todosGrupos)
     int carga = 0;
     int cargaMolecula = 0;
 
-    for (int i = 0; i < todosGrupos.size(); ++i) {
+    for (int i = 0; i < todosGrupos.size(); i++) {
 
         // si pH de la solución > pka de mi grupo, entonces predomina la carga de A- (grupo desprotonado)
         if (ph > todosGrupos[i].GetpK()){
