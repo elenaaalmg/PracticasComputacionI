@@ -1,3 +1,0 @@
-C:/Users/elena/OneDrive/Documentos/UNAM/Computacion I/CargaElectrica/cmake-build-debug/CMakeFiles/CargaElectrica.dir
-C:/Users/elena/OneDrive/Documentos/UNAM/Computacion I/CargaElectrica/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/elena/OneDrive/Documentos/UNAM/Computacion I/CargaElectrica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
