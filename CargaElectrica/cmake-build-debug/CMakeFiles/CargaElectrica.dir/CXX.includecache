@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/elena/OneDrive/Documentos/UNAM/Computacion I/CargaElectrica/CargaElectrica.cpp
+iostream
+-
+array
+-
+string
+-
+Grupo.h
+C:/Users/elena/OneDrive/Documentos/UNAM/Computacion I/CargaElectrica/Grupo.h
+
+C:/Users/elena/OneDrive/Documentos/UNAM/Computacion I/CargaElectrica/Grupo.h
+string
+-
+
