@@ -1,3 +1,8 @@
+#Author: Elena Almanza García
+#elena.almg@gmail.com
+#Nov 18, 2021
+
+
 #Se le pide al usuario que ingrese el numero de ecuaciones
 numEcuaciones = int(input("Número de ecuaciones: "))
 
